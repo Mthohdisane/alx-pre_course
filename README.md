@@ -1,6 +1,6 @@
 I am now an ALX Student, this my first repositoryas full stack engineer.This project is aimed at btriggering initiative from all software beginners,and to help them develop **Growth mindset and Grit** as they grow their career.
 >
->#**who can make changes**
+>**who can make changes**
 >
 >1. Read the code and see how it may impact you, and
 >2. changes can be made by any software engineer
