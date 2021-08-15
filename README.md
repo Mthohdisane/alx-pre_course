@@ -1,5 +1,6 @@
 **MY FIRST REPO**
-I am now an ALX Student, this my first repositoryas full stack engineer.This project is aimed at btriggering initiative from all software beginners,and to help them develop **Growth mindset and Grit** as they grow their career.
+>
+>I am now an ALX Student, this my first repositoryas full stack engineer.This project is aimed at btriggering initiative from all software beginners,and to help them develop **Growth mindset and Grit** as they grow their career.
 >
 >**who can make changes**
 >
